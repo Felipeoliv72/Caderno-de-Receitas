@@ -47,12 +47,3 @@ Cada nó da árvore (`RecipeNode`) armazena uma receita completa, utilizando o *
 ## 🛠️ Tecnologias Utilizadas
 
 * **Python 3.x** (bibliotecas nativas `json` e `os`, sem dependências externas).
-
----
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/caderno-receitas-bst.git](https://github.com/seu-usuario/caderno-receitas-bst.git)
-   cd caderno-receitas-bst
