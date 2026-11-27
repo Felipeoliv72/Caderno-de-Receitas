@@ -1,0 +1,16 @@
+[
+  {
+    "nome": "Macarrão à Bolonhesa",
+    "tempo_preparo": "40 min",
+    "ingredientes": [
+      "macarrão",
+      "carne moída",
+      "molho de tomate",
+      "alho",
+      "cebola",
+      "azeite"
+    ],
+    "modo_preparo": "Refogue a carne moída com alho e cebola, adicione o molho e sirva sobre o macarrão cozido.",
+    "estrelas": 5
+  }
+]
